@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input::placeholder {
+  color: #9ca3af; /* Tailwind's 'text-gray-500' */
+}
