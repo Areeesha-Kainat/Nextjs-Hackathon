@@ -15,7 +15,7 @@ export default function Navbar() {
         {/* Profile Image (visible only on smaller screens) */}
         <div className="w-8 h-8 rounded-full border-2 border-gray-300 overflow-hidden md:hidden">
           <Image
-            src="/profil.png" // Replace with your profile image path
+            src="/Profil.png" // Replace with your profile image path
             alt="Profile"
             width={40}
             height={40}
